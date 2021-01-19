@@ -8,6 +8,7 @@ class TestAppApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		println("TestAppApplicationTests.contextLoads");
 	}
 
 }

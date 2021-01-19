@@ -8,4 +8,5 @@ class TestAppApplication
 
 fun main(args: Array<String>) {
 	runApplication<TestAppApplication>(*args)
+	println("already start...");
 }
